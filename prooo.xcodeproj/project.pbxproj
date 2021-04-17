@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		181129702629DA7C0056769A /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1811296F2629DA7C0056769A /* HomeViewController.swift */; };
+		1811297C262B1F0D0056769A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1811297B262B1F0D0056769A /* LoginViewController.swift */; };
+		18112988262B1F340056769A /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18112987262B1F340056769A /* RegisterViewController.swift */; };
+		1811298D262B1F730056769A /* BrRegister1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1811298C262B1F730056769A /* BrRegister1ViewController.swift */; };
+		18112992262B1F860056769A /* BrRegister2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18112991262B1F860056769A /* BrRegister2ViewController.swift */; };
+		18112997262B1F9E0056769A /* BrRegister3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18112996262B1F9E0056769A /* BrRegister3ViewController.swift */; };
+		1811299C262B1FB80056769A /* SuccesRegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1811299B262B1FB80056769A /* SuccesRegisterViewController.swift */; };
+		181129A1262B1FDF0056769A /* CompanyRegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181129A0262B1FDF0056769A /* CompanyRegisterViewController.swift */; };
+		181129A6262B20050056769A /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181129A5262B20050056769A /* HomePageViewController.swift */; };
+		181129AB262B20450056769A /* AddingProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181129AA262B20450056769A /* AddingProductViewController.swift */; };
 		18469BB32606157700AFCA03 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18469BB22606157700AFCA03 /* AppDelegate.swift */; };
 		18469BB52606157700AFCA03 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18469BB42606157700AFCA03 /* SceneDelegate.swift */; };
 		18469BB72606157700AFCA03 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18469BB62606157700AFCA03 /* ViewController.swift */; };
@@ -15,6 +25,23 @@
 		18469BBF2606157800AFCA03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18469BBD2606157800AFCA03 /* LaunchScreen.storyboard */; };
 		18469BCA2606157800AFCA03 /* proooTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18469BC92606157800AFCA03 /* proooTests.swift */; };
 		18469BD52606157800AFCA03 /* proooUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18469BD42606157800AFCA03 /* proooUITests.swift */; };
+		18660112262B89A000000EA6 /* urunlistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660111262B89A000000EA6 /* urunlistViewController.swift */; };
+		18660117262B8A5600000EA6 /* urunekleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660116262B8A5600000EA6 /* urunekleViewController.swift */; };
+		1866011C262B8B1300000EA6 /* urunonayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866011B262B8B1300000EA6 /* urunonayViewController.swift */; };
+		18660121262B8BA000000EA6 /* dıgerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660120262B8BA000000EA6 /* dıgerViewController.swift */; };
+		18660126262B8CA600000EA6 /* profilimViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660125262B8CA600000EA6 /* profilimViewController.swift */; };
+		1866012B262B8D4B00000EA6 /* bilgilerimViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866012A262B8D4B00000EA6 /* bilgilerimViewController.swift */; };
+		18660130262B8EA800000EA6 /* adreslerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866012F262B8EA800000EA6 /* adreslerViewController.swift */; };
+		18660135262B8EC100000EA6 /* adresekleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660134262B8EC100000EA6 /* adresekleViewController.swift */; };
+		1866013A262B8ED600000EA6 /* kartlarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660139262B8ED600000EA6 /* kartlarViewController.swift */; };
+		1866013F262B8EE700000EA6 /* kartekleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866013E262B8EE700000EA6 /* kartekleViewController.swift */; };
+		18660144262B8EFF00000EA6 /* kuponlarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660143262B8EFF00000EA6 /* kuponlarViewController.swift */; };
+		18660149262B8F0D00000EA6 /* fırsatlarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660148262B8F0D00000EA6 /* fırsatlarViewController.swift */; };
+		1866014E262B8F1E00000EA6 /* sehirlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866014D262B8F1E00000EA6 /* sehirlerViewController.swift */; };
+		18660153262B8F2F00000EA6 /* sifremiunuttumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18660152262B8F2F00000EA6 /* sifremiunuttumViewController.swift */; };
+		186E50DB260B99CC00EA7480 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 186E50DA260B99CC00EA7480 /* GoogleService-Info.plist */; };
+		188C17842628C7BC00105021 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188C17832628C7BC00105021 /* Login.swift */; };
+		188C178C2628C7D400105021 /* Signin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188C178B2628C7D400105021 /* Signin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +62,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1811296F2629DA7C0056769A /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		1811297B262B1F0D0056769A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		18112987262B1F340056769A /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		1811298C262B1F730056769A /* BrRegister1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrRegister1ViewController.swift; sourceTree = "<group>"; };
+		18112991262B1F860056769A /* BrRegister2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrRegister2ViewController.swift; sourceTree = "<group>"; };
+		18112996262B1F9E0056769A /* BrRegister3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrRegister3ViewController.swift; sourceTree = "<group>"; };
+		1811299B262B1FB80056769A /* SuccesRegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccesRegisterViewController.swift; sourceTree = "<group>"; };
+		181129A0262B1FDF0056769A /* CompanyRegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanyRegisterViewController.swift; sourceTree = "<group>"; };
+		181129A5262B20050056769A /* HomePageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
+		181129AA262B20450056769A /* AddingProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingProductViewController.swift; sourceTree = "<group>"; };
 		18469BAF2606157700AFCA03 /* prooo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = prooo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18469BB22606157700AFCA03 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18469BB42606157700AFCA03 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +86,24 @@
 		18469BD02606157800AFCA03 /* proooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = proooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18469BD42606157800AFCA03 /* proooUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = proooUITests.swift; sourceTree = "<group>"; };
 		18469BD62606157800AFCA03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18660111262B89A000000EA6 /* urunlistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = urunlistViewController.swift; sourceTree = "<group>"; };
+		18660116262B8A5600000EA6 /* urunekleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = urunekleViewController.swift; sourceTree = "<group>"; };
+		1866011B262B8B1300000EA6 /* urunonayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = urunonayViewController.swift; sourceTree = "<group>"; };
+		18660120262B8BA000000EA6 /* dıgerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "dıgerViewController.swift"; sourceTree = "<group>"; };
+		18660125262B8CA600000EA6 /* profilimViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profilimViewController.swift; sourceTree = "<group>"; };
+		1866012A262B8D4B00000EA6 /* bilgilerimViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bilgilerimViewController.swift; sourceTree = "<group>"; };
+		1866012F262B8EA800000EA6 /* adreslerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adreslerViewController.swift; sourceTree = "<group>"; };
+		18660134262B8EC100000EA6 /* adresekleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adresekleViewController.swift; sourceTree = "<group>"; };
+		18660139262B8ED600000EA6 /* kartlarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kartlarViewController.swift; sourceTree = "<group>"; };
+		1866013E262B8EE700000EA6 /* kartekleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kartekleViewController.swift; sourceTree = "<group>"; };
+		18660143262B8EFF00000EA6 /* kuponlarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kuponlarViewController.swift; sourceTree = "<group>"; };
+		18660148262B8F0D00000EA6 /* fırsatlarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "fırsatlarViewController.swift"; sourceTree = "<group>"; };
+		1866014D262B8F1E00000EA6 /* sehirlerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sehirlerViewController.swift; sourceTree = "<group>"; };
+		18660152262B8F2F00000EA6 /* sifremiunuttumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sifremiunuttumViewController.swift; sourceTree = "<group>"; };
+		186E50DA260B99CC00EA7480 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		188C17832628C7BC00105021 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
+		188C178B2628C7D400105021 /* Signin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Signin.swift; sourceTree = "<group>"; };
+		188C17972628C93600105021 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +131,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1811297A262B11120056769A /* StoryBoard Swift */ = {
+			isa = PBXGroup;
+			children = (
+				1811296F2629DA7C0056769A /* HomeViewController.swift */,
+				1811299B262B1FB80056769A /* SuccesRegisterViewController.swift */,
+				181129A5262B20050056769A /* HomePageViewController.swift */,
+				181129A0262B1FDF0056769A /* CompanyRegisterViewController.swift */,
+				18660116262B8A5600000EA6 /* urunekleViewController.swift */,
+				1866014D262B8F1E00000EA6 /* sehirlerViewController.swift */,
+				18660143262B8EFF00000EA6 /* kuponlarViewController.swift */,
+				18660152262B8F2F00000EA6 /* sifremiunuttumViewController.swift */,
+				1811297B262B1F0D0056769A /* LoginViewController.swift */,
+				18660148262B8F0D00000EA6 /* fırsatlarViewController.swift */,
+				1866013E262B8EE700000EA6 /* kartekleViewController.swift */,
+				18112987262B1F340056769A /* RegisterViewController.swift */,
+				18660139262B8ED600000EA6 /* kartlarViewController.swift */,
+				18660125262B8CA600000EA6 /* profilimViewController.swift */,
+				18660134262B8EC100000EA6 /* adresekleViewController.swift */,
+				1866011B262B8B1300000EA6 /* urunonayViewController.swift */,
+				1866012F262B8EA800000EA6 /* adreslerViewController.swift */,
+				1866012A262B8D4B00000EA6 /* bilgilerimViewController.swift */,
+				18660111262B89A000000EA6 /* urunlistViewController.swift */,
+				18660120262B8BA000000EA6 /* dıgerViewController.swift */,
+				18112996262B1F9E0056769A /* BrRegister3ViewController.swift */,
+				18112991262B1F860056769A /* BrRegister2ViewController.swift */,
+				1811298C262B1F730056769A /* BrRegister1ViewController.swift */,
+				181129AA262B20450056769A /* AddingProductViewController.swift */,
+			);
+			path = "StoryBoard Swift";
+			sourceTree = "<group>";
+		};
 		18469BA62606157700AFCA03 = {
 			isa = PBXGroup;
 			children = (
@@ -100,11 +186,14 @@
 			isa = PBXGroup;
 			children = (
 				18469BB22606157700AFCA03 /* AppDelegate.swift */,
-				18469BB42606157700AFCA03 /* SceneDelegate.swift */,
 				18469BB62606157700AFCA03 /* ViewController.swift */,
-				18469BB82606157700AFCA03 /* Main.storyboard */,
+				18469BB42606157700AFCA03 /* SceneDelegate.swift */,
+				1811297A262B11120056769A /* StoryBoard Swift */,
+				188C17952628C91700105021 /* Storyboard */,
+				188C17962628C92F00105021 /* Firebase */,
+				188C17822628C79C00105021 /* Login */,
+				186E50DA260B99CC00EA7480 /* GoogleService-Info.plist */,
 				18469BBB2606157800AFCA03 /* Assets.xcassets */,
-				18469BBD2606157800AFCA03 /* LaunchScreen.storyboard */,
 				18469BC02606157800AFCA03 /* Info.plist */,
 			);
 			path = prooo;
@@ -126,6 +215,32 @@
 				18469BD62606157800AFCA03 /* Info.plist */,
 			);
 			path = proooUITests;
+			sourceTree = "<group>";
+		};
+		188C17822628C79C00105021 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				188C17832628C7BC00105021 /* Login.swift */,
+				188C178B2628C7D400105021 /* Signin.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		188C17952628C91700105021 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				18469BBD2606157800AFCA03 /* LaunchScreen.storyboard */,
+				18469BB82606157700AFCA03 /* Main.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		188C17962628C92F00105021 /* Firebase */ = {
+			isa = PBXGroup;
+			children = (
+				188C17972628C93600105021 /* GoogleService-Info.plist */,
+			);
+			path = Firebase;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,6 +347,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18469BBF2606157800AFCA03 /* LaunchScreen.storyboard in Resources */,
+				186E50DB260B99CC00EA7480 /* GoogleService-Info.plist in Resources */,
 				18469BBC2606157800AFCA03 /* Assets.xcassets in Resources */,
 				18469BBA2606157700AFCA03 /* Main.storyboard in Resources */,
 			);
@@ -258,9 +374,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18660144262B8EFF00000EA6 /* kuponlarViewController.swift in Sources */,
+				18660126262B8CA600000EA6 /* profilimViewController.swift in Sources */,
+				1811297C262B1F0D0056769A /* LoginViewController.swift in Sources */,
+				1811298D262B1F730056769A /* BrRegister1ViewController.swift in Sources */,
+				181129A1262B1FDF0056769A /* CompanyRegisterViewController.swift in Sources */,
+				18660153262B8F2F00000EA6 /* sifremiunuttumViewController.swift in Sources */,
+				1866011C262B8B1300000EA6 /* urunonayViewController.swift in Sources */,
+				18112992262B1F860056769A /* BrRegister2ViewController.swift in Sources */,
+				1866013A262B8ED600000EA6 /* kartlarViewController.swift in Sources */,
+				1866013F262B8EE700000EA6 /* kartekleViewController.swift in Sources */,
+				18660149262B8F0D00000EA6 /* fırsatlarViewController.swift in Sources */,
 				18469BB72606157700AFCA03 /* ViewController.swift in Sources */,
 				18469BB32606157700AFCA03 /* AppDelegate.swift in Sources */,
+				1866014E262B8F1E00000EA6 /* sehirlerViewController.swift in Sources */,
+				181129AB262B20450056769A /* AddingProductViewController.swift in Sources */,
+				18112988262B1F340056769A /* RegisterViewController.swift in Sources */,
 				18469BB52606157700AFCA03 /* SceneDelegate.swift in Sources */,
+				181129A6262B20050056769A /* HomePageViewController.swift in Sources */,
+				188C17842628C7BC00105021 /* Login.swift in Sources */,
+				18660121262B8BA000000EA6 /* dıgerViewController.swift in Sources */,
+				18112997262B1F9E0056769A /* BrRegister3ViewController.swift in Sources */,
+				18660117262B8A5600000EA6 /* urunekleViewController.swift in Sources */,
+				18660112262B89A000000EA6 /* urunlistViewController.swift in Sources */,
+				181129702629DA7C0056769A /* HomeViewController.swift in Sources */,
+				18660130262B8EA800000EA6 /* adreslerViewController.swift in Sources */,
+				18660135262B8EC100000EA6 /* adresekleViewController.swift in Sources */,
+				188C178C2628C7D400105021 /* Signin.swift in Sources */,
+				1866012B262B8D4B00000EA6 /* bilgilerimViewController.swift in Sources */,
+				1811299C262B1FB80056769A /* SuccesRegisterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
